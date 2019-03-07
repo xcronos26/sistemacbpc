@@ -1,0 +1,5 @@
+[11-Feb-2019 13:29:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cbpco785/public_html/asb2019/config.php on line 7
+[11-Feb-2019 13:31:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cbpco785/public_html/asb2019/confirm.php on line 13
+[11-Feb-2019 13:31:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cbpco785/public_html/asb2019/confirm.php on line 13
+[11-Feb-2019 13:32:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cbpco785/public_html/asb2019/confirm.php on line 13
+[11-Feb-2019 13:32:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cbpco785/public_html/asb2019/confirm.php on line 13
